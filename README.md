@@ -1,6 +1,6 @@
 ---
 
-# License Plate Detection and Blurring using OpenCV
+# WorkShop 5 - License Plate Detection and Blurring using OpenCV
 ## Developed By: Deepak K R
 ## Reg No: 212225040057
 ## Aim
